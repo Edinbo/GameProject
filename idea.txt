@@ -1,3 +1,9 @@
 write down themes, goals ( is it rpg, arpg, fps, mmorpg, turn-based, tcg/ccg)
 write down audiences that it might attract (related to those themes)
 make a separate draft for each theme
+so they're all isolated
+write down objectives users might need to achive to gain a certain reward or reach a certain goal or checkpoint
+this can be anything
+then write down a list of barriers that players must overcome to achieve that said goal
+i.e boss battles
+pvp
